@@ -21,8 +21,6 @@ The License Plate Recognition (LPR) System is a computer vision project designed
 
 ## Training the License Plate Detection Model
 The system uses a custom-trained YOLO model for license plate detection. The model was trained on a dataset specifically created for this project, ensuring high accuracy in various lighting and environmental conditions.
-- Training details can be found in [this notebook](https://www.kaggle.com/code/ahmedshafiq12/license-plate-detector-training).
-- The dataset is available [here](https://universe.roboflow.com/roboflow-universe-projects/license-plate-recognition-rxg4e/dataset/4).
 
 ## Installation
 To set up the project on your local machine:
